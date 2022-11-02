@@ -13,7 +13,7 @@
 - 💻 &nbsp;
 <img alt="Python" src="https://img.shields.io/badge/-Python-333333?style=flat&logo=Python">
 <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-333333?style=flat&logo=Javascript">
-<img alt="Java" src="https://img.shields.io/badge/-Java-333333?style=flat&logo=Java">
+<img alt="Java" src="https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396">
 <img alt="C++" src="https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B">
 </div>
 <div>
