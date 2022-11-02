@@ -33,9 +33,9 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 <br/>
-
+<br />
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/hazem-muhammad-zaki-423434159/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Hazem%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/hazem-muhammad-zaki-423434159/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Hazem%20Mousa-blue?style=flat-square&logo=linkedin"></a>
 </p>
