@@ -19,7 +19,7 @@
 <div>
 - 🌐 &nbsp;
 <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5">
-<img alt="CSS" src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS">
+<img alt="CSS" src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6">
 <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript">
 <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js">
 <img alt="React" src="https://img.shields.io/badge/-React-333333?style=flat&logo=React">
@@ -30,7 +30,7 @@
 <div>
 - 🛢 &nbsp;
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql">
-<img alt="Postgres" src="https://img.shields.io/badge/-Postgres-333333?style=flat&logo=Postgres">
+<img alt="Postgres" src="https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL">
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB">
 </div>
 <div>
