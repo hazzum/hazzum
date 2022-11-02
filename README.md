@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; I'm passionate about new technologies and developing software solutions.
 - 🎓 &nbsp; Recent Computer Engineering graduate.
-- 🌱 &nbsp; Interested in learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+- 🌱 &nbsp; Interested in learning more about Cloud Architecture, Systems Design and Machine Learning.
 - ✍️ &nbsp; Practicing Translation and Creative writing as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
