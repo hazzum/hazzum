@@ -48,5 +48,5 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/hazem-muhammad-zaki-423434159/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Hazem%20Mousa-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/hazem-muhammad-zaki-423434159/" target="_blank><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Hazem%20Mousa-blue?style=flat-square&logo=linkedin"></a>
 </p>
